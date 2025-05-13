@@ -1,1 +1,1 @@
-# VektorDatanbank
+# VektorDatenbank
